@@ -1,0 +1,4 @@
+Integer x
+x = 3
+x = "hello"
+//ƒGƒ‰[‚ª‹N‚«‚é
