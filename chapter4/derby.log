@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Wed Apr 04 21:03:32 JST 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0136-7d3d-01e3-0000055e8970 
+on database directory memory:Z:\groovycode_4\testdb  with class loader org.codehaus.groovy.tools.RootLoader@4b90690e 
+Loaded from file:/C:/Users/Niimura/.groovy/grapes/org.apache.derby/derby/jars/derby-10.8.2.2.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0-b147
+user.dir=Z:\groovycode_4
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
