@@ -1,0 +1,15 @@
+includeTargets << gant.targets.Clean
+cleanPattern << ['**/*~','**/*.bak']
+cleanDirectory << 'build'
+
+target(hello:'ƒ^ƒXƒN‚Ìà–¾•¶‚ª‘‚¯‚é'){
+	println('Hello!')
+
+	depends(clean)
+
+	echo(message:'Ant‚Ìecho‚Å‚±‚ñ‚É‚¿‚Í')
+}
+
+setDefaultTarget(hello)
+
+//build.gant
